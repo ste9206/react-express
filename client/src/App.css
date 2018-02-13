@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.cont{
+  font-family: 'Avenir', Arial, sans-serif;
+  margin-top: 3%;
+}
+
+
+.cieu{
+  font-family: 'Avenir', Arial, sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 3%;
+}
+input {
+  
+  text-align: center;
+}
+
+.padder{
+  margin-bottom: 5%;
+}
+
+img{
+  width:100%;
+  max-width:44px;
+  height: 100%;
+  max-height: 44px;
+}
+
+.daje{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.no-block{
+  text-align: center;
+  width: 44px;
+  height: 36px;
+}
+
+
+.pollo{
+  padding-top: 5%;
+  left:0; 
+  right:0;
+  top:0; 
+  bottom:0;      
+  margin:auto;
+  max-width: 60%;
+  max-height: 70%;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
